@@ -41,8 +41,10 @@ http://dmi3y-tv.ru/hls/okko/CH_TNTHD.m3u8
 https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_RTRS_PERM/variant.m3u8
 #EXTINF:-1,Дом Кино
 http://77.72.22.42:8080/9136/index.m3u8
-#EXTINF:-1,Дом Кино (Резерв 1)
+#EXTINF:-1,Дом Кино tcn1 (Резерв 1)
 http://srv-7-streaming.iptvin.site:8080/dom-kino/video.m3u8?token=893776d6f0a985f3e4cb4d0027765a1b7e3cdf30-1592166537-1667161473-1667118273
+#EXTINF:-1,Дом Кино tcn1
+http://195.189.238.106/streaming/dom_kino/16/tvrec/playlist.m3u8
 #EXTINF:-1,Че
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8
 #EXTINF:-1,Че (+2)
